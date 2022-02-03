@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pdrvieira
 - 👀 I’m interested in ... C#
 - 🌱 I’m currently learning ... ASP .NET CORE
-- 💞️ I’m looking to collaborate on ... Microsoft stufs
 - 📫 How to reach me ... pedroavcleite@gmail.com
 
 <!---
