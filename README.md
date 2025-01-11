@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pdrvieira
-- 👀 I’m interested in ... C#
-- 🌱 I’m currently learning ... ASP .NET CORE
+- 👀 I’m interested in ... Data Science
+- 🌱 I’m currently learning ... Machine Learning
 - 📫 How to reach me ... pedroavcleite@gmail.com
 
 <!---
