@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pdrvieira
-- 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... Machine Learning
+- 👀 I’m interested in ... Software Engineer
+- 🌱 I’m currently learning ... App Development
 - 📫 How to reach me ... pedroavcleite@gmail.com
 
 <!---
